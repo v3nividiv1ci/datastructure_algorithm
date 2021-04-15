@@ -1,5 +1,6 @@
 //#include "linked_list.cpp"
 #include "sorts.h"
+#include "trees.h"
 #include <iostream>
 #define null NULL
 
